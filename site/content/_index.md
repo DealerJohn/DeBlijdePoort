@@ -21,16 +21,14 @@ intro:
     - 1-op-1 sessies
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: |-
+      Dat kan helemaal op zichzelf of uitgebreid met:
+      ontbijt
+      - rebalancing sessie
+      - zweethuit
+      - 1-op-1 sessies
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: Alles doen we in overleg met jou en we bieden alles op maat aan.
 values:
   heading: Onze waarden
   text: De Blijde Poort biedt een veilige omgeving voor U. Wij zullen ten all
