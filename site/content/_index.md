@@ -7,7 +7,7 @@ blurb:
   text: De Blijde Poort is een plek voor bezinning voor iedereen die opzoek is
     naar verdieping in zichzelf en diep contact met de ander.
 intro:
-  heading: Wat we aanbieden?
+  heading: Wat we aanbieden
   text: >-
     De Blijde Poort biedt verblijf aan in een eenvoudig houten retraitehuisje.
     Dat kan helemaal op zichzelf of uitgebreid met:
