@@ -4,37 +4,31 @@ image: /img/about-jumbotron.jpg
 values:
   - heading: Verbinding
     text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
-    imageUrl: /img/about-shade-grown.jpg
+      Het beschikbaar stellen van een retraitehuisje is in verbinding gaan met
+      de ander door deze de mogelijkheid te geven in stilte tot zichzelf te
+      komen. Wij bieden daar de bedding voor.
+    imageUrl: img/human-connection-blog-banner-2185299285.png
   - heading: Authenticiteit
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-    imageUrl: /img/about-single-origin.jpg
+      Deze waarde is waar het om gaat in het leven de authenticiteit van jezelf
+      in een authentieke wereld. De wereld is ver afgedreven an authenticiteit.
+      Vooral de wereld die wij gecreëerd hebben. Met als gevolg dat wij zelf ook
+      iets ophouden dat we denken te moeten zijn.
+    imageUrl: img/authenticity-1776686610.jpg
   - heading: Toewijding
     text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-    imageUrl: /img/about-sustainable-farming.jpg
+      Graag willen wij met toewijding deze plek beheren en beschikbaar stellen
+      voor wie de behoefte heeft.
+    imageUrl: img/1582724-anil-sinha-quote-dedication-means-spending-whatever-time-or-energy-2832918237.jpg
   - heading: Geven om de ander
     text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-direct-sourcing.jpg
+      De ander is het spiegelbeeld van jezelf. Wat je doet is geven om de ander
+      en dat is geven om jezelf. Vanuit een basis van liefde en waarde voor
+      jezelf.
+    imageUrl: img/ander-verhaal-1688420885.jpg
   - heading: Investeer in deze plek
     text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+      Deze plek groeit alleen maar met de mensen die er zijn en je leven ten
+      volle leven op deze plek.
     imageUrl: img/2279094-frank-lloyd-wright-quote-if-you-wisely-invest-in-beauty-it-will-373916363.jpg
 ---
