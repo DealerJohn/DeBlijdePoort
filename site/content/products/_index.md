@@ -9,17 +9,8 @@ intro:
         meditatie retraite tot aan heerlijk tot rust komen in deze prachtige
         omgeving.
     - image: /img/illustrations-coffee-gear.svg
-      text: >-
-        Je kunt alleen het huisje huren maar ook gebruik maken van extra
-        mogelijkheden zoals:
-
-        - Ontbijt
-
-        - Sauna
-
-        - Zweethut
-
-        - Rebalancing sessie
+      text: Je kunt alleen het huisje huren maar ook gebruik maken van extra
+        mogelijkheden zoals ontbijt, sauna, zweethut, rebalancing sessie.
     - image: img/1912618-1634477962.jpg
       text: Wij geloven dat de stilte opzoeken, je terugbrengt naar jezelf waardoor je
         weer ervaart wat je werkelijk wil.
@@ -31,8 +22,7 @@ intro:
   description: >
     De Blijde Poort is een plek om tot rust te komen in de vorm van een
     eenvoudig zijn in ons retraite huisje in het prachtige Sallandse landschap.
-    Het huisje ligt in een prachtige tuin bij een vijver en een tuin. Wij wonen
-    zelf vlakbij.
+    Het huisje ligt in een prachtige tuin bij een vijver. Ik woon zelf vlakbij.
 main:
   heading: Onze waarden van authenticiteit en verbinding zijn het uitgangspunt
   description: >
