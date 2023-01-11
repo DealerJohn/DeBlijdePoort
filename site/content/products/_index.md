@@ -20,10 +20,10 @@ intro:
         - Zweethut
 
         - Rebalancing sessie
-    - image: /img/illustrations-tutorials.svg
+    - image: img/1912618-1634477962.jpg
       text: Wij geloven dat de stilte opzoeken, je terugbrengt naar jezelf waardoor je
         weer ervaart wat je werkelijk wil.
-    - image: /img/illustrations-meeting-space.svg
+    - image: img/1ec03c28e71339598b1d60f0e02ed2de-3778056086.jpg
       text: >
         Daarom hopen we dat wij met deze plek en onze ervaring in bewustwoording
         in stilte je daarbij kunnen ondersteunen.
@@ -41,13 +41,13 @@ main:
     verbinding te zoeken met andere mensen om hier samen bewust in te worden.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: img/whirlingdervishesjpg-4115168788.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: img/dbf63a0-ba7dfa51-3b2b-45cc-a466-5fee8dc91ea0-2475470640.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: img/waterfalls-nature-drawing-4169538979.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
@@ -55,7 +55,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: img/capturing-the-best-moments-of-nature-4-966442650.jpg
 pricing:
   heading: Onze prijslijst
   description: Dit is wat we op het moment aanbieden
