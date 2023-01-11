@@ -49,12 +49,12 @@ main:
     alt: Coffee beans
     image: img/waterfalls-nature-drawing-4169538979.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+  - author: Jan Janssen
+    quote: Het was heerlijk die rust en dat prachtige uitzicht. Gedurende de week
+      had ik steeds meer een routine die ik heerlijk vond. De ontvangst en
+      begeleiding was hartverwarmend.
+  - author: Greet Schimmelpennink
+    quote: Wat een liefde en een heerlijk rustgevende plek heb je hier Pieter!
 full_image: img/capturing-the-best-moments-of-nature-4-966442650.jpg
 pricing:
   heading: Onze prijslijst
@@ -65,22 +65,22 @@ pricing:
         - Verblijjf in retraitehuisje
         - Gas-licht-water inclusief
         - geen internet
-      plan: Huur retraitehuisje per week
-      price: "50"
-    - description: Great for avid drinkers, java-nsoving couples and bigger crowds
+      plan: Huur retraitehuisje per week (7 dagen)
+      price: "500"
+    - description: Uitgebreid ontbijt
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - broodjes
+        - sap
+        - yoghurt
+        - ei.
+      plan: Extra Ontbijt (per week)
+      price: "70"
+    - description: Een sessie met pieter van der Poort
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: "?"
+        - Gesprek
+        - ontspanningssessie
+      plan: Extra rebalancing sessie
+      price: "90"
 type: products
 image: /img/products-jumbotron.jpg
 description: De Blijde Poort is een plek om tot rust te komen in de vorm van een
