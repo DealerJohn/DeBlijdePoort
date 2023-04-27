@@ -1,5 +1,5 @@
 ---
-title: Retraitehuisje De Blijde Poort
+title: Retraitehuisje De Blijde Poort///////////////////////////////////////
 subtitle: Terug naar de stilte, terug naar jezelf
 image: img/deblijdepoort-6.jpeg
 blurb:
