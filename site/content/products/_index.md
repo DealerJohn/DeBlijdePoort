@@ -1,6 +1,11 @@
 ---
 title: Onze Mogelijkheden
+image: /img/products-jumbotron.jpg
 heading: Wat we aanbieden
+description: De Blijde Poort is een plek om tot rust te komen in de vorm van een
+  eenvoudig zijn in ons retraite huisje in het prachtige Sallandse landschap.
+  Het huisje ligt in een prachtige tuin bij een vijver en een tuin. Wij wonen
+  zelf vlakbij.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -57,14 +62,6 @@ pricing:
         - geen internet
       plan: Huur retraitehuisje per week (7 dagen)
       price: "500"
-    - description: Uitgebreid ontbijt
-      items:
-        - broodjes
-        - sap
-        - yoghurt
-        - ei.
-      plan: Extra Ontbijt (per week)
-      price: "70"
     - description: Een sessie met pieter van der Poort
       items:
         - Gesprek
@@ -72,9 +69,4 @@ pricing:
       plan: Extra rebalancing sessie
       price: "90"
 type: products
-image: /img/products-jumbotron.jpg
-description: De Blijde Poort is een plek om tot rust te komen in de vorm van een
-  eenvoudig zijn in ons retraite huisje in het prachtige Sallandse landschap.
-  Het huisje ligt in een prachtige tuin bij een vijver en een tuin. Wij wonen
-  zelf vlakbij.
 ---
