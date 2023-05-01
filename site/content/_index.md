@@ -19,7 +19,7 @@ products:
       rebalancing sessie, haptonomische begeleiding, massage en gebruik van een
       hout gestookte sauna met zwemvijver.
   - image: /img/illustrations-coffee-gear.svg
-    text: We kunnen je alles op maat, in overleg met jou, aanbieden.
+    text: We kunnen in overleg met jou, alles op maat aanbieden.
 values:
   heading: Onze waarden
   text: Retraite huisje De Blijde Poort biedt u een veilige, rustige en
