@@ -8,8 +8,11 @@ blurb:
     naar rust, stilte en verdieping in zichzelf.
 intro:
   heading: Wat we aanbieden
-  text: De Blijde Poort biedt verblijf aan in een goed geïsoleerd en verwarmd
-    houten retraite huisje. Dat kan helemaal op zichzelf of uitgebreid.
+  text: De Blijde Poort biedt verblijf aan in een comfortabel, goed geïsoleerd en
+    verwarmd houten retraite huisje. Dat kan helemaal op je zelf of uitgebreid
+    met begeleiding. In de vorm van een 1 op 1 focus gesprek, zelf onderzoek,
+    een Rebalancing sessie, haptonomie of een massage. Het is ook mogelijk
+    gebruik te maken van een hout gestookte sauna met natuur zwemwater.
 products:
   - image: img/illustrations-coffee.svg
     text: Met ontbijt, rebalancing sessie, zweethut, 1-op-1 sessies
