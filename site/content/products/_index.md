@@ -15,7 +15,11 @@ intro:
         omgeving.
     - image: /img/illustrations-coffee-gear.svg
       text: Je kunt alleen het huisje huren maar ook gebruik maken van extra
-        mogelijkheden zoals ontbijt, sauna, zweethut, rebalancing sessie.
+        mogelijkheden zoals een ontmoeting waarin we kunnen onderzoeken wat jouw
+        vraag is op dit moment, wat jij nu nodig hebt via zelfonderzoek, een
+        rebalancing sessie, of haptonomische begeleiding. Een massage en gebruik
+        van de hout gestookte sauna met zwemvijver behoort ook tot de
+        mogelijkheden.
     - image: img/1912618-1634477962.jpg
       text: Wij geloven dat de stilte opzoeken, je terugbrengt naar jezelf waardoor je
         weer ervaart wat je werkelijk wil.
@@ -31,9 +35,10 @@ intro:
 main:
   heading: Onze waarden van authenticiteit en verbinding zijn het uitgangspunt
   description: >
-    In deze wereld die je anders laat voordoen dan je werkelijk bent, is het
-    belangrijk terug te keren naar wie je werkelijk bent en daarbij ook de
-    verbinding te zoeken met andere mensen om hier samen bewust in te worden.
+    In deze wereld die je uitnodigt om je anders voor te doen dan je werkelijk
+    bent, is het belangrijk terug te keren naar wie je werkelijk bent en daarbij
+    ook de verbinding te zoeken met andere mensen om hier samen bewust in te
+    worden.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: img/whirlingdervishesjpg-4115168788.jpg
