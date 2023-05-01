@@ -15,7 +15,9 @@ intro:
     gebruik te maken van een hout gestookte sauna met natuur zwemwater.
 products:
   - image: img/illustrations-coffee.svg
-    text: Met ontbijt, rebalancing sessie, zweethut, 1-op-1 sessies
+    text: Mogelijkheden zijn ontmoetingen, spiegelgesprekken, zelfonderzoek,
+      rebalancing sessie, haptonomische begeleiding, massage en gebruik van een
+      hout gestookte sauna met zwemvijver.
   - image: /img/illustrations-coffee-gear.svg
     text: Alles doen we in overleg met jou en we bieden alles op maat aan.
 values:
