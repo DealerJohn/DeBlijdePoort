@@ -22,6 +22,7 @@ products:
     text: Alles doen we in overleg met jou en we bieden alles op maat aan.
 values:
   heading: Onze waarden
-  text: De Blijde Poort biedt een veilige omgeving voor U. Wij zullen ten alle
-    tijden uitgaan van liefde en verbinding tussen mensen.
+  text: Retraite huisje De Blijde Poort biedt u een veilige, rustige en
+    lommerrijke omgeving. Wij zullen ten alle tijden uitgaan van Liefde en
+    verbinding tussen mensen.
 ---
