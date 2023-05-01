@@ -4,8 +4,8 @@ subtitle: Terug naar de stilte, terug naar jezelf
 image: img/deblijdepoort-6.jpeg
 blurb:
   heading: Waarom De Blijde Poort?
-  text: De Blijde Poort is een plek voor bezinning voor iedereen die opzoek is
-    naar verdieping in zichzelf en diep contact met de ander.
+  text: De Blijde Poort is een plek voor bezinning voor iedereen die op zoek is
+    naar rust, stilte en verdieping in zichzelf.
 intro:
   heading: Wat we aanbieden
   text: De Blijde Poort biedt verblijf aan in een eenvoudig houten retraitehuisje.
