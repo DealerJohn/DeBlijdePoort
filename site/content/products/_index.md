@@ -1,6 +1,6 @@
 ---
 title: Onze Mogelijkheden
-image: /img/products-jumbotron.jpg
+image: img/1000003590.jpg
 heading: Wat we aanbieden
 description: De Blijde Poort is een plek om tot rust te komen in de vorm van een
   eenvoudig zijn in ons retraite huisje in het prachtige Sallandse landschap.
@@ -8,12 +8,12 @@ description: De Blijde Poort is een plek om tot rust te komen in de vorm van een
   zelf vlakbij.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: img/1000003028.jpg
       text: Je kunt voor kortere of langere tijd in ons retraite huisje verblijven en
         het verblijf naar eigen wensen invullen. Dit kan van een volledige
         meditatie retraite tot aan heerlijk tot rust komen in deze prachtige
         omgeving.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: img/20230303_142458.jpg
       text: Je kunt alleen het huisje huren maar ook gebruik maken van extra
         mogelijkheden zoals een ontmoeting waarin we kunnen onderzoeken wat jouw
         vraag is op dit moment, wat jij nu nodig hebt via zelfonderzoek, een
