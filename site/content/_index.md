@@ -14,11 +14,11 @@ intro:
     een Rebalancing sessie, haptonomie of een massage. Het is ook mogelijk
     gebruik te maken van een hout gestookte sauna met natuur zwemwater.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/1000003568.jpg
     text: Mogelijkheden zijn ontmoetingen, spiegelgesprekken, zelfonderzoek,
       rebalancing sessie, haptonomische begeleiding, massage en gebruik van een
       hout gestookte sauna met zwemvijver.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: img/1000003572.jpg
     text: We kunnen in overleg met jou, alles op maat aanbieden.
 values:
   heading: Onze waarden
