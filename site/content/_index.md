@@ -1,7 +1,7 @@
 ---
 title: "Retraitehuisje De Blijde Poort "
 subtitle: Terug naar de stilte, terug naar jezelf
-image: img/deblijdepoort-6.jpeg
+image: img/20230429_174519.jpg
 blurb:
   heading: Waarom De Blijde Poort?
   text: De Blijde Poort is een plek voor bezinning voor iedereen die op zoek is
@@ -14,7 +14,7 @@ intro:
     een Rebalancing sessie, haptonomie of een massage. Het is ook mogelijk
     gebruik te maken van een hout gestookte sauna met natuur zwemwater.
 products:
-  - image: img/1000003572.jpg
+  - image: img/20230429_173921.jpg
     text: We kunnen in overleg met jou, alles op maat aanbieden.
   - image: img/1000003568.jpg
     text: Mogelijkheden zijn ontmoetingen, spiegelgesprekken, zelfonderzoek,
