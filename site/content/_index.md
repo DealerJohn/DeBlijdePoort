@@ -13,7 +13,8 @@ intro:
     met begeleiding. "
 products:
   - image: img/20230429_173921.jpg
-    text: We kunnen in overleg met jou, alles op maat aanbieden.
+    text: "in overleg kunnen we kijken wat jouw wensen en verlangens zijn en daar
+      zover mogelijk een invulling aan geven. "
   - image: img/1000003568.jpg
     text: Mogelijkheden zijn ontmoetingen, spiegelgesprekken, zelfonderzoek,
       rebalancing sessie, haptonomische begeleiding, massage en gebruik van een
