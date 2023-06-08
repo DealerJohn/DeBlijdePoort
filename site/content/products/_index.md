@@ -15,11 +15,7 @@ intro:
         omgeving.
     - image: img/20230303_142458.jpg
       text: Je kunt alleen het huisje huren maar ook gebruik maken van extra
-        mogelijkheden zoals een ontmoeting waarin we kunnen onderzoeken wat jouw
-        vraag is op dit moment, wat jij nu nodig hebt via zelfonderzoek, een
-        rebalancing sessie, of haptonomische begeleiding. Een massage en gebruik
-        van de hout gestookte sauna met zwemvijver behoort ook tot de
-        mogelijkheden.
+        mogelijkheden zoals eerder genoemd.
     - image: img/1912618-1634477962.jpg
       text: Wij geloven dat de stilte opzoeken, je terugbrengt naar jezelf waardoor je
         weer ervaart wat je werkelijk wil.
