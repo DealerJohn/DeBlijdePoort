@@ -16,7 +16,14 @@ products:
     text: "in overleg kunnen we kijken wat jouw wensen en verlangens zijn en daar
       zover mogelijk een invulling aan geven. "
   - image: img/1000003568.jpg
-    text: Onder verder geven we een indruk van onze mogelijkheden.
+    text: >-
+      Een retraite zou kunnen beginnen met een verdiepend gesprek, om goed zicht
+      te krijgen op waar jij nu bent in je leven en wat jij nu nodig hebt. In de
+      stilte kunnen inzichten komen.
+
+      Verder zijn er Rebalancing lichaamswerk sessies, een Haptonomie behandeling, een focussing sessie, en spiegelgesprek of ook andere gewenste vormen van lichaamswerk mogelijk. Een ontspannende lichaamsmassage kan helpen tot rust te komen.
+
+      In overleg is veel mogelijk. Daarnaast is er een hout gestookte sauna waar op afspraak gebruik van gemaakt kan worden.
 values:
   heading: Onze waarden
   text: Retraite huisje De Blijde Poort biedt u een veilige, rustige en
