@@ -2,10 +2,9 @@
 title: Onze Mogelijkheden
 image: img/1000003590.jpg
 heading: Wat we aanbieden
-description: De Blijde Poort is een plek om tot rust te komen in de vorm van een
-  eenvoudig zijn in ons retraite huisje in het prachtige Sallandse landschap.
-  Het huisje ligt in een prachtige tuin bij een vijver en een tuin. Wij wonen
-  zelf vlakbij.
+description: De Blijde Poort is een plek om tot rust te komen in ons retraite
+  huisje in het prachtige Sallandse landschap. Het huisje ligt in een prachtige
+  tuin bij een vijver en een tuin. Wij wonen zelf vlakbij.
 intro:
   blurbs:
     - image: img/1000003028.jpg
@@ -29,9 +28,9 @@ intro:
         in stilte je daarbij kunnen ondersteunen.
   heading: Wat we aanbieden
   description: >
-    De Blijde Poort is een plek om tot rust te komen in de vorm van een
-    eenvoudig zijn in ons retraite huisje in het prachtige Sallandse landschap.
-    Het huisje ligt in een prachtige tuin bij een vijver. Ik woon zelf vlakbij.
+    De Blijde Poort is een plek om tot rust te komen in ons retraite huisje in
+    het prachtige Sallandse landschap. Het huisje ligt in een prachtige tuin bij
+    een vijver. Ik woon zelf in een houten huis op het terrein.
 main:
   heading: Onze waarden van authenticiteit en verbinding zijn het uitgangspunt
   description: >
