@@ -31,7 +31,7 @@ intro:
   description: >
     De Blijde Poort is een plek om tot rust te komen in ons retraite huisje in
     het prachtige Sallandse landschap. Het huisje ligt in een prachtige tuin bij
-    een vijver. Ik woon zelf in een houten huis op het terrein.
+    een vijver. we wonen zelf in een houten huis op het terrein.
 main:
   heading: Onze waarden van authenticiteit en verbinding zijn het uitgangspunt
   description: >
