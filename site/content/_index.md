@@ -26,7 +26,6 @@ products:
       In overleg is veel mogelijk. Daarnaast is er een hout gestookte sauna waar op afspraak gebruik van gemaakt kan worden.
 values:
   heading: Onze waarden
-  text: Retraite huisje De Blijde Poort biedt u een veilige, rustige en
-    lommerrijke omgeving. Wij zullen ten alle tijden uitgaan van Liefde en
-    verbinding tussen mensen.
+  text: "Retraite huisje De Blijde Poort biedt u een veilige, rustige en
+    lommerrijke omgeving. "
 ---
