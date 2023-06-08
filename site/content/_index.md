@@ -16,9 +16,7 @@ products:
     text: "in overleg kunnen we kijken wat jouw wensen en verlangens zijn en daar
       zover mogelijk een invulling aan geven. "
   - image: img/1000003568.jpg
-    text: Mogelijkheden zijn ontmoetingen, spiegelgesprekken, zelfonderzoek,
-      rebalancing sessie, haptonomische begeleiding, massage en gebruik van een
-      hout gestookte sauna met zwemvijver.
+    text: Onder verder geven we een indruk van onze mogelijkheden.
 values:
   heading: Onze waarden
   text: Retraite huisje De Blijde Poort biedt u een veilige, rustige en
