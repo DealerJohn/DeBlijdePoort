@@ -30,7 +30,7 @@ intro:
       text: >
         Daarom hopen we dat wij met deze plek en onze ervaring in bewustwoording
         in stilte je daarbij kunnen ondersteunen.
-  heading: Wat we aanbieden
+  heading: Wat ik aanbied
   description: >
     Een retraite zou kunnen beginnen met een verdiepend gesprek, om goed zicht
     te krijgen op waar jij nu bent in je leven en wat jij nu nodig hebt. In de
