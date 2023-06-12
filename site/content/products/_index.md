@@ -32,7 +32,7 @@ intro:
       text: >
         Daarom hopen we dat wij met deze plek en onze ervaring in bewustwoording
         in stilte je daarbij kunnen ondersteunen.
-  heading: In stilte kunnen inzichten kmen
+  heading: In stilte kunnen inzichten komen
   description: >
     In de stilte kunnen inzichten komen. 
 
