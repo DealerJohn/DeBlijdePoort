@@ -34,8 +34,7 @@ intro:
         in stilte je daarbij kunnen ondersteunen.
   heading: In stilte kunnen inzichten komen
   description: >
-    In de stilte kunnen inzichten komen. 
-
+    
     Je bent natuurlijk vrij om helemaal op jezelf zijn en alles zelf te organiseren. 
 
     Je zou jouw retraite ook kunnen beginnen met een verdiepend gesprek, om goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig hebt. 
