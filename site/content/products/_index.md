@@ -1,5 +1,5 @@
 ---
-title: Onze Mogelijkheden
+title: Wat is mogelijk?
 image: img/1000003590.jpg
 heading: Wat ik aanbied
 description: Een retraite zou kunnen beginnen met een verdiepend gesprek, om
