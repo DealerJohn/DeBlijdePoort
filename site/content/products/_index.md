@@ -16,10 +16,12 @@ description: Een retraite zou kunnen beginnen met een verdiepend gesprek, om
 intro:
   blurbs:
     - image: img/1000003028.jpg
-      text: Je kunt voor kortere of langere tijd in ons retraite huisje verblijven en
-        het verblijf naar eigen wensen invullen. Dit kan van een volledige
-        meditatie retraite tot aan heerlijk tot rust komen in deze prachtige
-        omgeving.
+      text: De Blijde Poort is een plek om tot rust te komen in ons retraite huisje in
+        het prachtige Sallandse landschap. Het huisje ligt in een prachtige tuin
+        bij een vijver. we wonen zelf in een houten huis op het terrein. Je kunt
+        voor kortere of langere tijd in ons retraite huisje verblijven en het
+        verblijf naar eigen wensen invullen. Dit kan van een volledige meditatie
+        retraite tot aan heerlijk tot rust komen in deze prachtige omgeving.
     - image: img/20230303_142458.jpg
       text: Je kunt alleen het huisje huren maar ook gebruik maken van extra
         mogelijkheden zoals eerder genoemd.
@@ -39,10 +41,7 @@ intro:
     of ook andere gewenste vormen van lichaamswerk mogelijk. Een ontspannende
     lichaamsmassage kan helpen tot rust te komen. In overleg is veel mogelijk.
     Daarnaast is er een hout gestookte sauna waar op afspraak gebruik van
-    gemaakt kan worden.De Blijde Poort is een plek om tot rust te komen in ons
-    retraite huisje in het prachtige Sallandse landschap. Het huisje ligt in een
-    prachtige tuin bij een vijver. we wonen zelf in een houten huis op het
-    terrein.
+    gemaakt kan worden. 
 main:
   heading: Onze waarden van authenticiteit en verbinding zijn het uitgangspunt
   description: >
