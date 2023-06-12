@@ -37,7 +37,7 @@ intro:
     
     In de stilte kunnen inzichten komen. 
 
-    Je kan helemaal op jezelf zijn. 
+    Je kunt voor een meditatie retraite komen, helemaal op jezelf. Of een verblijf om heerlijk tot rust te komen in deze prachtige omgeving. 
 
     Ook is het mogelijk jouw retraite te beginnen met een verdiepend gesprek, om goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig hebt.
 
