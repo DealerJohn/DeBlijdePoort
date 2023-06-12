@@ -32,7 +32,7 @@ intro:
       text: >
         Daarom hopen we dat wij met deze plek en onze ervaring in bewustwoording
         in stilte je daarbij kunnen ondersteunen.
-  heading: In stilte kunnen inzichten komen
+  heading: Stilte
   description: >
     
     Je bent natuurlijk vrij om helemaal op jezelf zijn en alles zelf te organiseren. 
