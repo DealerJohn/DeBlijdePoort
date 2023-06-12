@@ -32,14 +32,19 @@ intro:
       text: >
         Daarom hopen we dat wij met deze plek en onze ervaring in bewustwoording
         in stilte je daarbij kunnen ondersteunen.
-  heading: Retraite
+  heading: In stilte kunnen inzichten kmen
   description: >
-    Je bent natuurlijk vrij om helemaal op jezelf zijn en alles zelf te
-    organiseren. Je zou jouw retraite ook kunnen beginnen met een verdiepend
-    gesprek, om goed zicht te krijgen op waar jij nu bent in je leven en wat jij
-    nu nodig hebt. In de stilte kunnen inzichten komen. 
+    In de stilte kunnen inzichten komen. 
 
-    Verder zijn er Rebalancing lichaamswerk sessies, een Haptonomie behandeling, een focussing sessie, en spiegelgesprek of ook andere gewenste vormen van lichaamswerk mogelijk. Een ontspannende lichaamsmassage kan helpen tot rust te komen. In overleg is veel mogelijk. Daarnaast is er een hout gestookte sauna waar op afspraak gebruik van gemaakt kan worden. 
+    Je bent natuurlijk vrij om helemaal op jezelf zijn en alles zelf te organiseren. 
+
+    Je zou jouw retraite ook kunnen beginnen met een verdiepend gesprek, om goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig hebt. 
+
+    Als ervaren Haptonoom, Rebalancer en Trager therapeut kan ik je diverse lichaamswerk sessies aanbieden. Ook ontspannende lichaamsmassage kan helpen tot rust te komen. 
+
+    In overleg is veel mogelijk. 
+
+    Het gebruik van de hout gestookte sauna behoort ook tot de mogelijkheden. 
 main:
   heading: Onze waarden van authenticiteit en verbinding zijn het uitgangspunt
   description: >
