@@ -16,9 +16,8 @@ products:
   - image: img/20230429_173921.jpg
     text: Het huisje ernaast is een saunahuisje met eigen douche en toilet.
   - image: img/1000003568.jpg
-    text: De Blijde Poort is een plek om tot rust te komen in ons retraite huisje in
-      het prachtige Sallandse landschap. Het huisje ligt in een prachtige tuin
-      bij een vijver. we wonen zelf in een houten huis op het terrein.
+    text: "Vanaf de veranda van het huisje kijk je naar de boomgaard en de vijver en
+      ervaar je de rust van het Overijsselse platteland. "
 values:
   heading: Onze waarden
   text: "Retraite huisje De Blijde Poort biedt u een veilige, rustige en
