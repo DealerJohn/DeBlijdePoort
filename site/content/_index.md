@@ -7,7 +7,7 @@ blurb:
   text: De Blijde Poort is een plek voor bezinning voor iedereen die op zoek is
     naar rust, stilte en verdieping in zichzelf.
 intro:
-  heading: Het aanbod
+  heading: Het huisje
   text: De Blijde Poort is een comfortabel, goed geïsoleerd en verwarmd houten
     retraite huisje. Hier kun je tot rust te komen in het prachtige Sallandse
     landschap. Het huisje ligt in een lommerrijke tuin bij een vijver. We wonen
