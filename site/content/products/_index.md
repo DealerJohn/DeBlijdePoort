@@ -35,11 +35,13 @@ intro:
   heading: Stilte
   description: >
     
-    Je bent natuurlijk vrij om helemaal op jezelf zijn en alles zelf te organiseren. 
+    In de stilte kunnen inzichten komen. 
 
-    Ook is het mogelijk jouw retraite te beginnen met een verdiepend gesprek, om goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig hebt. 
+    Je kan helemaal op jezelf zijn. 
 
-    Als ervaren Haptonoom, Rebalancer en Trager therapeut kan ik je diverse lichaamswerk sessies aanbieden. Ook ontspannende lichaamsmassage kan helpen tot rust te komen. 
+    Ook is het mogelijk jouw retraite te beginnen met een verdiepend gesprek, om goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig hebt.
+
+    Als ervaren Haptonoom, Rebalancer en Trager therapeut kan ik je ook diverse lichaamswerk sessies aanbieden. Ook ontspannende lichaamsmassage kan helpen tot rust te komen. 
 
     In overleg is veel mogelijk. 
 
