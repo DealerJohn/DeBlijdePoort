@@ -8,9 +8,9 @@ blurb:
     naar rust, stilte en verdieping in zichzelf.
 intro:
   heading: Het aanbod
-  text: "De Blijde Poort biedt verblijf aan in een comfortabel, goed geïsoleerd en
-    verwarmd houten retraite huisje. Dat kan helemaal op je zelf of uitgebreid
-    met begeleiding. "
+  text: "De Blijde Poort is een comfortabel, goed geïsoleerd en verwarmd houten
+    retraite huisje. Dat kan helemaal op je zelf of uitgebreid met begeleiding.
+    "
 products:
   - image: img/20230429_173921.jpg
     text: "in overleg kunnen we kijken wat jouw wensen en verlangens zijn en daar
