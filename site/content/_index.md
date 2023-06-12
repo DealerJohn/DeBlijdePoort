@@ -14,7 +14,7 @@ intro:
     zelf in een houten huis op het terrein.
 products:
   - image: img/20230429_173921.jpg
-    text: Het huisje lig in een boomgaard.
+    text: Het huisje ernaast is een saunahuisje met eigen douche en toilet.
   - image: img/1000003568.jpg
     text: De Blijde Poort is een plek om tot rust te komen in ons retraite huisje in
       het prachtige Sallandse landschap. Het huisje ligt in een prachtige tuin
