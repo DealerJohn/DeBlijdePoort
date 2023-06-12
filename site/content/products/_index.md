@@ -1,11 +1,18 @@
 ---
 title: Onze Mogelijkheden
 image: img/1000003590.jpg
-heading: Wat we aanbieden
-description: De Blijde Poort is een plek om tot rust te komen in ons retraite
-  huisje in het prachtige Sallandse landschap. Het huisje ligt in een prachtige
-  tuin bij een vijver en een tuin. We wonen zelf in een houten huis op het
-  terrein..
+heading: Wat ik aanbied
+description: Een retraite zou kunnen beginnen met een verdiepend gesprek, om
+  goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig
+  hebt. In de stilte kunnen inzichten komen. Verder zijn er Rebalancing
+  lichaamswerk sessies, een Haptonomie behandeling, een focussing sessie, en
+  spiegelgesprek of ook andere gewenste vormen van lichaamswerk mogelijk. Een
+  ontspannende lichaamsmassage kan helpen tot rust te komen. In overleg is veel
+  mogelijk. Daarnaast is er een hout gestookte sauna waar op afspraak gebruik
+  van gemaakt kan worden.De Blijde Poort is een plek om tot rust te komen in ons
+  retraite huisje in het prachtige Sallandse landschap. Het huisje ligt in een
+  prachtige tuin bij een vijver en een tuin. We wonen zelf in een houten huis op
+  het terrein..
 intro:
   blurbs:
     - image: img/1000003028.jpg
@@ -25,9 +32,17 @@ intro:
         in stilte je daarbij kunnen ondersteunen.
   heading: Wat we aanbieden
   description: >
-    De Blijde Poort is een plek om tot rust te komen in ons retraite huisje in
-    het prachtige Sallandse landschap. Het huisje ligt in een prachtige tuin bij
-    een vijver. we wonen zelf in een houten huis op het terrein.
+    Een retraite zou kunnen beginnen met een verdiepend gesprek, om goed zicht
+    te krijgen op waar jij nu bent in je leven en wat jij nu nodig hebt. In de
+    stilte kunnen inzichten komen. Verder zijn er Rebalancing lichaamswerk
+    sessies, een Haptonomie behandeling, een focussing sessie, en spiegelgesprek
+    of ook andere gewenste vormen van lichaamswerk mogelijk. Een ontspannende
+    lichaamsmassage kan helpen tot rust te komen. In overleg is veel mogelijk.
+    Daarnaast is er een hout gestookte sauna waar op afspraak gebruik van
+    gemaakt kan worden.De Blijde Poort is een plek om tot rust te komen in ons
+    retraite huisje in het prachtige Sallandse landschap. Het huisje ligt in een
+    prachtige tuin bij een vijver. we wonen zelf in een houten huis op het
+    terrein.
 main:
   heading: Onze waarden van authenticiteit en verbinding zijn het uitgangspunt
   description: >
