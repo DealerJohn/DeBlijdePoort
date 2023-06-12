@@ -1,7 +1,7 @@
 ---
 title: Wat is mogelijk?
 image: img/1000003590.jpg
-heading: Wat ik aanbied
+heading: "Retraite "
 description: Een retraite zou kunnen beginnen met een verdiepend gesprek, om
   goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig
   hebt. In de stilte kunnen inzichten komen. Verder zijn er Rebalancing
