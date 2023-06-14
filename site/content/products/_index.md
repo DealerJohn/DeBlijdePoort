@@ -1,32 +1,24 @@
 ---
 title: Wat is mogelijk?
-image: img/1000003590.jpg
 heading: "Retraite "
-description: Een retraite zou kunnen beginnen met een verdiepend gesprek, om
-  goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig
-  hebt. In de stilte kunnen inzichten komen. Verder zijn er Rebalancing
-  lichaamswerk sessies, een Haptonomie behandeling, een focussing sessie, en
-  spiegelgesprek of ook andere gewenste vormen van lichaamswerk mogelijk. Een
-  ontspannende lichaamsmassage kan helpen tot rust te komen. In overleg is veel
-  mogelijk. Daarnaast is er een hout gestookte sauna waar op afspraak gebruik
-  van gemaakt kan worden.De Blijde Poort is een plek om tot rust te komen in ons
-  retraite huisje in het prachtige Sallandse landschap. Het huisje ligt in een
-  prachtige tuin bij een vijver en een tuin. We wonen zelf in een houten huis op
-  het terrein..
 intro:
   blurbs:
     - image: img/1000003028.jpg
       text: Ruimte
+      full_image: img/1000003568.jpg
     - image: img/20230303_142458.jpg
       text: Je kunt alleen het huisje huren maar ook gebruik maken van extra
         mogelijkheden zoals eerder genoemd.
+      full_image: img/1000003572.jpg
     - image: img/1912618-1634477962.jpg
       text: Wij geloven dat de stilte opzoeken, je terugbrengt naar jezelf waardoor je
         weer ervaart wat je werkelijk wil.
+      full_image: img/1000003574.jpg
     - image: img/1ec03c28e71339598b1d60f0e02ed2de-3778056086.jpg
       text: >
         Daarom hopen we dat wij met deze plek en onze ervaring in bewustwoording
         in stilte je daarbij kunnen ondersteunen.
+      full_image: img/1000003590.jpg
   heading: Stilte
   description: >
     
@@ -57,6 +49,15 @@ main:
   image3:
     alt: Coffee beans
     image: img/waterfalls-nature-drawing-4169538979.jpg
+  full_image1:
+    full_image: img/whirlingdervishesjpg-4115168788.jpg
+    alt: Derwishes
+  full_image2:
+    full_image: img/dbf63a0-ba7dfa51-3b2b-45cc-a466-5fee8dc91ea0-2475470640.jpg
+    alt: Herfstbos
+  full_image3:
+    full_image: img/waterfalls-nature-drawing-4169538979.jpg
+    alt: Waterval
 testimonials:
   - author: Jan Janssen
     quote: Het was heerlijk die rust en dat prachtige uitzicht. Gedurende de week
@@ -83,4 +84,16 @@ pricing:
       plan: Extra rebalancing sessie
       price: "90"
 type: products
+image: img/1000003590.jpg
+description: Een retraite zou kunnen beginnen met een verdiepend gesprek, om
+  goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig
+  hebt. In de stilte kunnen inzichten komen. Verder zijn er Rebalancing
+  lichaamswerk sessies, een Haptonomie behandeling, een focussing sessie, en
+  spiegelgesprek of ook andere gewenste vormen van lichaamswerk mogelijk. Een
+  ontspannende lichaamsmassage kan helpen tot rust te komen. In overleg is veel
+  mogelijk. Daarnaast is er een hout gestookte sauna waar op afspraak gebruik
+  van gemaakt kan worden.De Blijde Poort is een plek om tot rust te komen in ons
+  retraite huisje in het prachtige Sallandse landschap. Het huisje ligt in een
+  prachtige tuin bij een vijver en een tuin. We wonen zelf in een houten huis op
+  het terrein..
 ---
