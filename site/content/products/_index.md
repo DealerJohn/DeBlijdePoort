@@ -7,18 +7,14 @@ intro:
       text: Ruimte
       full_image: img/1000003568.jpg
     - image: img/20230303_142458.jpg
-      text: Je kunt alleen het huisje huren maar ook gebruik maken van extra
+      text: >-
+        Je kunt alleen het huisje huren maar ook gebruik maken van extra
         mogelijkheden zoals eerder genoemd.
+
+        Wij geloven dat de stilte opzoeken, je terugbrengt naar jezelf waardoor je weer ervaart wat je werkelijk wil.
+
+        Daarom hopen we dat wij met deze plek en onze ervaring in bewustwoording in stilte je daarbij kunnen ondersteunen.
       full_image: img/1000003572.jpg
-    - image: img/1912618-1634477962.jpg
-      text: Wij geloven dat de stilte opzoeken, je terugbrengt naar jezelf waardoor je
-        weer ervaart wat je werkelijk wil.
-      full_image: img/1000003574.jpg
-    - image: img/1ec03c28e71339598b1d60f0e02ed2de-3778056086.jpg
-      text: >
-        Daarom hopen we dat wij met deze plek en onze ervaring in bewustwoording
-        in stilte je daarbij kunnen ondersteunen.
-      full_image: img/1000003590.jpg
   heading: Stilte
   description: >
     
