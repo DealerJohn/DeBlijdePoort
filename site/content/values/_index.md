@@ -1,6 +1,6 @@
 ---
 title: Onze Waarden
-image: /img/about-jumbotron.jpg
+image: img/20230429_174519.jpg
 values:
   - heading: Verbinding
     text: >
