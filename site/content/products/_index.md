@@ -74,12 +74,12 @@ pricing:
         - internet
       plan: Huur retraitehuisje per week (7 dagen)
       price: "450"
-    - description: Een sessie met pieter van der Poort
+    - description: Een verdiepingsgesprek, focussing
       items:
         - Gesprek
         - ontspanningssessie
-      plan: Extra rebalancing sessie
-      price: "90"
+      plan: Lichaamswerk sessies in overleg
+      price: "65"
 type: products
 description: Een retraite zou kunnen beginnen met een verdiepend gesprek, om
   goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig
