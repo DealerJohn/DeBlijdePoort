@@ -69,11 +69,11 @@ pricing:
   plans:
     - description: Uitgangspunt is het verblijven in ons retraitehuisje.
       items:
-        - Verblijjf in retraitehuisje
+        - Verblijf in retraitehuisje
         - Gas-licht-water inclusief
-        - geen internet
+        - internet
       plan: Huur retraitehuisje per week (7 dagen)
-      price: "500"
+      price: "450"
     - description: Een sessie met pieter van der Poort
       items:
         - Gesprek
