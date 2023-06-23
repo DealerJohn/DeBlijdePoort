@@ -76,8 +76,7 @@ pricing:
       price: "450"
     - description: Een verdiepingsgesprek, focussing
       items:
-        - Gesprek
-        - ontspanningssessie
+        - Ontspanningsmassage
       plan: Lichaamswerk sessies in overleg
       price: "65"
 type: products
