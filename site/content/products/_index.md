@@ -42,10 +42,10 @@ main:
     image: img/blog-index.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: img/dbf63a0-ba7dfa51-3b2b-45cc-a466-5fee8dc91ea0-2475470640.jpg
+    image: img/1000003590.jpg
   image3:
     alt: Coffee beans
-    image: img/waterfalls-nature-drawing-4169538979.jpg
+    image: img/20230620_133507.jpg
   full_image1:
     full_image: img/whirlingdervishesjpg-4115168788.jpg
     alt: Derwishes
@@ -62,7 +62,7 @@ testimonials:
       begeleiding was hartverwarmend.
   - author: Greet Schimmelpennink
     quote: Wat een liefde en een heerlijk rustgevende plek heb je hier Pieter!
-full_image: img/capturing-the-best-moments-of-nature-4-966442650.jpg
+full_image: img/20230620_133534.jpg
 pricing:
   heading: Onze prijslijst
   description: Dit is wat we op het moment aanbieden
