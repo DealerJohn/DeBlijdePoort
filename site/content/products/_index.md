@@ -41,7 +41,7 @@ main:
     image: img/20230620_133507.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: img/1000003590.jpg
+    image: img/20230620_133522.jpg
   image3:
     alt: Coffee beans
     image: img/20230620_133442.jpg
