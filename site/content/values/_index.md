@@ -10,9 +10,9 @@ values:
   - heading: Jezelf zijn
     text: >
       Ik geloof dat authenticiteit is waar het om gaat in het leven. Jezelf
-      kunnen zijn.  De wereld is ver afgedreven van authenticiteit. Vooral de
-      wereld die we zelf gecreëerd hebben. Met als gevolg dat wij zelf ook iets
-      ophouden dat we denken te moeten zijn.
+      willen en kunnen zijn.  De wereld is ver afgedreven van authenticiteit.
+      Vooral de wereld die we zelf gecreëerd hebben. Met als gevolg dat wij zelf
+      ook iets ophouden dat we denken te moeten zijn.
     imageUrl: img/1000003568.jpg
   - heading: Toewijding
     text: >
