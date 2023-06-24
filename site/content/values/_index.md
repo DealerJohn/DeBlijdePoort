@@ -4,9 +4,8 @@ image: img/20230429_174519.jpg
 values:
   - heading: Verbinding
     text: >
-      Het beschikbaar stellen van een retraitehuisje is in verbinding gaan met
-      de ander door deze de mogelijkheid te geven in stilte tot zichzelf te
-      komen. Wij bieden daar de bedding voor.
+      Het beschikbaar stellen van het retraitehuisje geeft jou de mogelijkheid
+      in stilte tot jezelf te komen. Wij bieden daar de bedding voor.
     imageUrl: img/20230620_133736.jpg
   - heading: Authenticiteit
     text: >
