@@ -44,7 +44,7 @@ main:
     image: img/20230620_133522.jpg
   image3:
     alt: Coffee beans
-    image: img/20230620_133442.jpg
+    image: img/20230420_181124.jpg
   full_image1:
     full_image: img/whirlingdervishesjpg-4115168788.jpg
     alt: Derwishes
