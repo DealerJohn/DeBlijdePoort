@@ -33,10 +33,9 @@ intro:
 main:
   heading: Onze waarden van authenticiteit en verbinding zijn het uitgangspunt
   description: >
-    In deze wereld die je uitnodigt om je anders voor te doen dan je werkelijk
-    bent, is het belangrijk terug te keren naar wie je werkelijk bent en daarbij
-    ook de verbinding te zoeken met andere mensen om hier samen bewust in te
-    worden.
+    In deze wereld met de vele prikkels die op ons afkomen, kun je jezelf
+    makkelijk kwijtraken. Het belangrijk terug te keren naar wie je werkelijk
+    bent. Rust, stilte, reflectie kunnen je helpen.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: img/blog-index.jpg
