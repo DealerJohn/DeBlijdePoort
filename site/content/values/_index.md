@@ -16,8 +16,8 @@ values:
     imageUrl: img/1000003568.jpg
   - heading: Toewijding
     text: >
-      Graag willen wij met toewijding deze plek beheren en beschikbaar stellen
-      voor wie de behoefte heeft.
+      Graag willen wij deze plek, die we met toewijding beheren, beschikbaar
+      stellen voor wie daaraan behoefte heeft.
     imageUrl: img/1000003568.jpg
   - heading: Geven om de ander
     text: >
