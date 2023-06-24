@@ -7,7 +7,7 @@ intro:
     - image: img/20230620_133907.jpg
       text: Ruimte
       full_image: img/1000003568.jpg
-    - image: img/20230303_142458.jpg
+    - image: img/20230429_174519.jpg
       text: >-
         Je kunt alleen het huisje huren maar ook gebruik maken van extra
         mogelijkheden zoals eerder genoemd.
