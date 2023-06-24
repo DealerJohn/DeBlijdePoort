@@ -25,9 +25,8 @@ values:
       ander en is dat geven om jezelf. Vanuit een basis van liefde en waarde
       voor jezelf.
     imageUrl: img/1000003572.jpg
-  - heading: Investeer in deze plek
-    text: >
-      Deze plek groeit alleen maar met de mensen die er zijn en je leven ten
-      volle leven op deze plek.
+  - heading: Ik investeer in deze plek
+    text: |
+      Deze plek groeit door mensen die aanwezig zijn en voluit willen leven. 
     imageUrl: img/1000003574.jpg
 ---
