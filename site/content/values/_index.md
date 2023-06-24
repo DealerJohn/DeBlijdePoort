@@ -21,8 +21,8 @@ values:
     imageUrl: img/1000003568.jpg
   - heading: Geven om de ander
     text: >
-      Ik geloof dat de ander het spiegelbeeld is van mijzelf. Als ik om de ander
-      geef en is dat geven om mijzelf. Vanuit een basis van liefde en waarde
+      Ik geloof dat de ander het spiegelbeeld is van mezelf. Als ik om de ander
+      geef en is dat geven om mezelf. Vanuit een basis van liefde en waardering
       voor mezelf.
     imageUrl: img/1000003572.jpg
   - heading: Ik investeer in deze plek
