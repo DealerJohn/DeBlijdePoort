@@ -38,13 +38,13 @@ main:
     bent. Rust, stilte, reflectie kunnen je helpen.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: img/blog-index.jpg
+    image: img/20230620_133507.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: img/1000003590.jpg
   image3:
     alt: Coffee beans
-    image: img/20230620_133507.jpg
+    image: img/20230620_133442.jpg
   full_image1:
     full_image: img/whirlingdervishesjpg-4115168788.jpg
     alt: Derwishes
