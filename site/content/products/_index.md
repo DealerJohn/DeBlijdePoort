@@ -25,7 +25,7 @@ intro:
 
     Ook is het mogelijk jouw retraite te beginnen met een verdiepend gesprek, om goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig hebt.
 
-    Als ervaren Haptonoom, Rebalancer en Trager therapeut kan ik je ook diverse lichaamswerk sessies aanbieden. Ook ontspannende lichaamsmassage kan helpen tot rust te komen. 
+    Als ervaren Haptonoom, Rebalancer en Trager therapeut kan ik je ook diverse lichaamswerk sessies aanbieden. Ook een ontspannende lichaamsmassage kan helpen tot rust te komen. 
 
     In overleg is veel mogelijk. 
 
