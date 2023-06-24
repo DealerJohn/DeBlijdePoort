@@ -4,7 +4,7 @@ title: Wat is mogelijk?
 image: img/1000003590.jpg
 intro:
   blurbs:
-    - image: img/1000003028.jpg
+    - image: img/20230620_133907.jpg
       text: Ruimte
       full_image: img/1000003568.jpg
     - image: img/20230303_142458.jpg
