@@ -1,6 +1,7 @@
 ---
 heading: "Retraite "
 title: Wat is mogelijk?
+image: img/1000003590.jpg
 intro:
   blurbs:
     - image: img/20230620_133907.jpg
@@ -63,7 +64,7 @@ pricing:
   heading: Onze prijslijst
   description: Dit is wat we op het moment aanbieden
   plans:
-    - description: Uitgangspunt is het verblijven in ons retraitehuisje.
+    - description: Kan dit weg?
       items:
         - Verblijf in retraitehuisje
         - Gas-licht-water inclusief
@@ -76,7 +77,6 @@ pricing:
       plan: Lichaamswerk sessies in overleg
       price: "65"
 type: products
-image: img/1000003590.jpg
 description: Een retraite zou kunnen beginnen met een verdiepend gesprek, om
   goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig
   hebt. In de stilte kunnen inzichten komen. Verder zijn er Rebalancing
