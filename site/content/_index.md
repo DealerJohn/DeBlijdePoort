@@ -19,7 +19,7 @@ products:
     text: "Vanaf de veranda van het huisje kijk je naar de boomgaard en de vijver en
       ervaar je de rust van het Overijsselse platteland. "
 values:
-  heading: Onze waarden
+  heading: " "
   text: "Retraite huisje De Blijde Poort biedt u een veilige, rustige en
     lommerrijke omgeving. "
 ---
