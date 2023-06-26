@@ -1,7 +1,6 @@
 ---
 heading: "Retraite "
 title: Wat is mogelijk?
-image: img/1000003590.jpg
 intro:
   blurbs:
     - image: img/20230620_133907.jpg
@@ -55,12 +54,10 @@ main:
     full_image: img/waterfalls-nature-drawing-4169538979.jpg
     alt: Waterval
 testimonials:
-  - author: Jan Janssen
-    quote: Het was heerlijk die rust en dat prachtige uitzicht. Gedurende de week
-      had ik steeds meer een routine die ik heerlijk vond. De ontvangst en
-      begeleiding was hartverwarmend.
-  - author: Greet Schimmelpennink
-    quote: Wat een liefde en een heerlijk rustgevende plek heb je hier Pieter!
+  - author: John Lardee & Diny van der Veen
+    quote: Wij waren de eerste die het nieuwe huisje mochten ondergaan. Het ware
+      twee heerlijke weken. Helemaal op jezelf en alle comfort van dit retraite
+      huisje. Dankjewel Pieter.
 full_image: img/20230620_133534.jpg
 pricing:
   heading: Onze prijslijst
@@ -79,6 +76,7 @@ pricing:
       plan: Lichaamswerk sessies in overleg
       price: "65"
 type: products
+image: img/1000003590.jpg
 description: Een retraite zou kunnen beginnen met een verdiepend gesprek, om
   goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig
   hebt. In de stilte kunnen inzichten komen. Verder zijn er Rebalancing
