@@ -33,7 +33,7 @@ main:
   description: >
     In deze wereld met de vele prikkels die op ons afkomen, kun je jezelf
     makkelijk kwijtraken. Het belangrijk terug te keren naar wie je werkelijk
-    bent. Rust, stilte, reflectie kunnen je helpen.
+    bent. 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: img/20230620_133507.jpg
