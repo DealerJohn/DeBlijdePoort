@@ -27,7 +27,7 @@ intro:
 
     In overleg is veel mogelijk. 
 
-    Het gebruik van de hout gestookte sauna behoort ook tot de mogelijkheden. 
+    Ook het gebruik van de hout gestookte sauna behoort tot de mogelijkheden. 
 main:
   heading: Onze waarden van authenticiteit en verbinding zijn het uitgangspunt
   description: >
