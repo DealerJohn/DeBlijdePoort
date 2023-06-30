@@ -3,9 +3,10 @@ title: "Retraitehuisje De Blijde Poort "
 subtitle: Terug naar de stilte, terug naar jezelf
 image: img/20230429_174519.jpg
 blurb:
-  heading: Welkom bij De Blijde Poort
+  heading: Welkom!
   text: De Blijde Poort is een plek voor bezinning voor iedereen die op zoek is
-    naar rust, stilte en verdieping in zichzelf.
+    naar rust, stilte en verdieping in het leven en zichzelf. Hier kun je tot
+    jezelf komen in het prachtige Sallandse landschap.
 intro:
   heading: Het huisje
   text: De Blijde Poort is een comfortabel, goed geïsoleerd en verwarmd houten
