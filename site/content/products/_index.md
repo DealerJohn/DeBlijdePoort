@@ -29,7 +29,7 @@ intro:
 
     Ook het gebruik van de hout gestookte sauna behoort tot de mogelijkheden. 
 main:
-  heading: Onze waarden van authenticiteit en verbinding zijn het uitgangspunt
+  heading: " "
   description: >
     In deze wereld met de vele prikkels die op ons afkomen, kun je jezelf
     makkelijk kwijtraken. Het belangrijk terug te keren naar wie je werkelijk
