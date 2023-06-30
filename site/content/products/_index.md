@@ -18,14 +18,12 @@ intro:
       full_image: img/1000003572.jpg
   heading: Stilte
   description: >
-    
-    In de stilte kunnen inzichten komen. 
+    Je kunt het huisje voor een week huren voor een meditatie retraite op jezelf
+    of om heerlijk tot rust te komen in deze prachtige omgeving.
 
-    Je kunt voor een meditatie retraite komen, helemaal op jezelf. Of een verblijf om heerlijk tot rust te komen in deze prachtige omgeving. 
+    In overleg kan ik zorgen voor boodschappen zodat je helemaal nergens heen hoeft.
 
-    Ook is het mogelijk jouw retraite te beginnen met een verdiepend gesprek, om goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig hebt.
-
-    Als ervaren Haptonoom, Rebalancer en Trager therapeut kan ik je ook diverse lichaamswerk sessies aanbieden. Ook een ontspannende lichaamsmassage kan helpen tot rust te komen. 
+    Als ervaren Haptonoom en Rebalancer kan ik je verschillende lichaamsgerichte sessies aanbieden (zie ook www.praktijkdepoort.nl).
 
     In overleg is veel mogelijk. 
 
