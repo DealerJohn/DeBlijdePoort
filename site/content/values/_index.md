@@ -22,8 +22,7 @@ values:
   - heading: " "
     text: "\ \n"
     imageUrl: img/1000003572.jpg
-  - heading: Ik investeer in deze plek
-    text: |
-      Deze plek groeit door mensen die aanwezig zijn en voluit willen leven. 
+  - heading: " "
+    text: "\ \n"
     imageUrl: img/1000003574.jpg
 ---
