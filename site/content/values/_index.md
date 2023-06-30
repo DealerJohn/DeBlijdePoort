@@ -5,25 +5,22 @@ values:
   - heading: Verbinding
     text: >
       Het beschikbaar stellen van het retraitehuisje geeft jou de mogelijkheid
-      in stilte tot jezelf te komen. Wij bieden daar de bedding voor.
+      in stilte tot jezelf te komen. Ik bied daar de bedding voor.
     imageUrl: img/20230620_133736.jpg
   - heading: Jezelf zijn
     text: >
-      Ik geloof dat authenticiteit is waar het om gaat in het leven. Jezelf
-      willen en kunnen zijn.  De wereld is ver afgedreven van authenticiteit.
-      Vooral de wereld die we zelf gecreëerd hebben. Met als gevolg dat wij zelf
-      ook iets ophouden dat we denken te moeten zijn.
+      Authenticiteit is waar het om gaat in het leven. Jezelf willen en kunnen
+      zijn.  De wereld is ver afgedreven van authenticiteit. Vooral de wereld
+      die we zelf gecreëerd hebben. Met als gevolg dat wij zelf ook iets
+      ophouden dat we denken te moeten zijn.
     imageUrl: img/1000003568.jpg
   - heading: Toewijding
     text: >
-      Graag willen wij deze plek, die we met toewijding beheren, beschikbaar
-      stellen voor wie daaraan behoefte heeft.
+      Graag wil ik deze plek, die ik met toewijding beheer, beschikbaar stellen
+      voor wie daaraan behoefte heeft.
     imageUrl: img/1000003568.jpg
-  - heading: Geven om de ander
-    text: >
-      Ik geloof dat de ander het spiegelbeeld is van mezelf. Als ik om de ander
-      geef en is dat geven om mezelf. Vanuit een basis van liefde en waardering
-      voor mezelf.
+  - heading: " "
+    text: "\ \n"
     imageUrl: img/1000003572.jpg
   - heading: Ik investeer in deze plek
     text: |
