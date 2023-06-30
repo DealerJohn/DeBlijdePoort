@@ -13,8 +13,6 @@ intro:
         mogelijkheden zoals eerder genoemd.
 
         Wij geloven dat de stilte opzoeken, je terugbrengt naar jezelf waardoor je weer ervaart wat je werkelijk wil.
-
-        Daarom hopen we dat wij met deze plek en onze ervaring in bewustwoording in stilte je daarbij kunnen ondersteunen.
       full_image: img/1000003572.jpg
   heading: Stilte
   description: >
