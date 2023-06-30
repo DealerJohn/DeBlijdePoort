@@ -1,5 +1,5 @@
 ---
-title: Onze Waarden
+title: Onze uitgangspunten
 image: img/20230429_174519.jpg
 values:
   - heading: Verbinding
