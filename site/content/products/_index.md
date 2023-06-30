@@ -57,7 +57,7 @@ pricing:
   heading: Onze prijslijst
   description: Dit is wat we op het moment aanbieden
   plans:
-    - description: Kan dit weg?
+    - description: " "
       items:
         - Verblijf in retraitehuisje
         - Gas-licht-water inclusief
