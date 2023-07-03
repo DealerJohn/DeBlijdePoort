@@ -9,7 +9,7 @@ blurb:
     jezelf komen in het prachtige Sallandse landschap.
 intro:
   heading: Het huisje
-  text: De Blijde Poort is een comfortabel en knus houten retraite huisje. Het
+  text: De Blijde Poort is een comfortabel en knus houten retraitehuisje. Het
     biedt slaapplaats aan een of twee personen, heeft eigen sanitair en is met
     een volledig uitgeruste keuken van alle gemakken voorzien. Het huisje is
     rustig gelegen achter op het terrein in de lommerrijke boomgaard bij de
