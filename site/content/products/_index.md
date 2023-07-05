@@ -24,10 +24,8 @@ intro:
     Ook het gebruik van de hout gestookte sauna behoort tot de mogelijkheden. 
 main:
   heading: " "
-  description: >
-    In deze wereld met de vele prikkels die op ons afkomen, kun je jezelf
-    makkelijk kwijtraken. Het belangrijk terug te keren naar wie je werkelijk
-    bent. 
+  description: |
+    Interieur van het huisje
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: img/20230620_133507.jpg
