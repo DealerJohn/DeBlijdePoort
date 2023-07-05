@@ -2,17 +2,15 @@
 title: Onze uitgangspunten
 image: img/20230429_174519.jpg
 values:
-  - heading: Verbinding
+  - heading: Septictank
     text: >
-      Het beschikbaar stellen van het retraitehuisje geeft jou de mogelijkheid
-      in stilte tot jezelf te komen. Ik bied daar de bedding voor.
+      Het huisje is aangesloten op een septictank. Dit houd in dat voor de goede
+      werking alleen biologisch afbreekbare zepen en schoonmaakmiddelen gebruikt
+      mogen worden.
     imageUrl: img/20230620_133736.jpg
-  - heading: Jezelf zijn
-    text: >
-      Authenticiteit is waar het om gaat in het leven. Jezelf willen en kunnen
-      zijn.  De wereld is ver afgedreven van authenticiteit. Vooral de wereld
-      die we zelf gecreëerd hebben. Met als gevolg dat wij zelf ook iets
-      ophouden dat we denken te moeten zijn.
+  - heading: Interieur
+    text: |
+      Het interieur is eenvoudig, maar wel van alle nodige gemakken voorzien.
     imageUrl: img/1000003568.jpg
   - heading: Toewijding
     text: >
