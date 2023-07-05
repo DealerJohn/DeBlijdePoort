@@ -8,8 +8,7 @@ intro:
       text: Ruimte
       full_image: img/1000003568.jpg
     - image: img/20230429_174519.jpg
-      text: Ik geloof dat de stilte opzoeken, je terugbrengt naar jezelf waardoor je
-        weer ervaart wat je werkelijk wil.
+      text: Uitzicht
       full_image: img/1000003572.jpg
   heading: Stilte
   description: >
