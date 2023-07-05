@@ -8,7 +8,7 @@ intro:
       text: Ruimte
       full_image: img/1000003568.jpg
     - image: img/20230429_174519.jpg
-      text: " "
+      text: Uitzicht
       full_image: img/1000003572.jpg
   heading: Stilte
   description: >
