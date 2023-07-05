@@ -12,10 +12,10 @@ values:
     text: |
       Het interieur is eenvoudig, maar wel van alle nodige gemakken voorzien.
     imageUrl: img/1000003568.jpg
-  - heading: Toewijding
+  - heading: Zorg
     text: >
-      Graag wil ik deze plek, die ik met toewijding beheer, beschikbaar stellen
-      voor wie daaraan behoefte heeft.
+      Aan alles dat op ons terrein gebouwd is, is veel liefde, zorg en aandacht
+      besteed. Wij vragen van jou als gast, hier met respect mee om te gaan.
     imageUrl: img/1000003568.jpg
   - heading: " "
     text: "\ \n"
