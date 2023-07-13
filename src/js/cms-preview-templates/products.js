@@ -66,7 +66,7 @@ export default class PostPreview extends React.Component {
       <img src={getAsset(entry.getIn(['data', 'full_image']))} alt="" className="db w-100"/>
 
       <div className="bg-off-white pv4 ph3">
-      	<div className="mw7 center">
+      	<div className="mw7 left">
 
       		<h2 className="f2 b lh-title mb3">{entry.getIn(['data', 'pricing', 'heading'])}</h2>
       		<p className="mw6">{entry.getIn(['data', 'pricing', 'description'])}</p>
@@ -77,7 +77,7 @@ export default class PostPreview extends React.Component {
 
               	<h3 className="b f5 grey-3 tc lh-title mb3">{plan.get('plan')}</h3>
 
-              	<p className="primary f1 b tc lh-title center">
+              	<p className="primary f1 b tc lh-title left">
               		<span className="f4">€</span>{plan.get('price')}
               	</p>
 
