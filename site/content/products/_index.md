@@ -45,8 +45,8 @@ main:
     alt: Waterval
 testimonials:
   - author: John Lardee & Diny van der Veen
-    quote: Wij waren de eerste die het nieuwe huisje mochten ondergaan. Het ware
-      twee heerlijke weken. Helemaal op jezelf en alle comfort van dit retraite
+    quote: Wij waren de eerste die het nieuwe huisje mochten bewonen. Het ware twee
+      heerlijke weken. Helemaal op jezelf en alle comfort van dit retraite
       huisje. Dankjewel Pieter.
 full_image: img/20230620_133534.jpg
 pricing:
