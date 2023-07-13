@@ -53,14 +53,16 @@ pricing:
   heading: Onze prijslijst
   description: Dit is wat we op het moment aanbieden
   plans:
-    - description: " "
+    - description: "  "
       items:
         - Verblijf in retraitehuisje
         - inclusief Gas-licht-water en internet
       plan: Huur retraitehuisje per week (zaterdag tot en met vrijdag)
       price: "450"
-    - description: Een verdiepingsgesprek, focussing
+    - description: " "
       items:
+        - Een verdiepingsgesprek
+        - focussing
         - Ontspanningsmassage
       plan: Lichaamswerk sessies in overleg
       price: "65"
