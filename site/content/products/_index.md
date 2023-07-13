@@ -1,6 +1,7 @@
 ---
 heading: "Retraite "
 title: Wat is mogelijk?
+image: img/1000003590.jpg
 intro:
   blurbs:
     - image: img/20230620_133907.jpg
@@ -59,15 +60,22 @@ pricing:
         - inclusief Gas-licht-water en internet
       plan: Huur retraitehuisje per week (zaterdag tot en met vrijdag)
       price: "450"
-    - description: " "
+    - description: " Wie is Pieter van der Poort"
       items:
-        - Een verdiepingsgesprek
+        - Mijn talent zit in mijn handen. Dat komt tot uitdrukking in – de kunst
+          van het aanraken -. Mijn handen staan als instrument ten dienste van
+          jouw ontdekkingsreis naar jezelf. Aanraken is voor mij als een
+          woordeloze dialoog. In de aanraking luister ik naar het verhaal van
+          jouw lichaam. In die aanraking en dat luisteren gaan we samen op
+          ontdekkingsreis. Een avontuur waarin je je eigen lichaam weer gaat
+          verstaan
+        - je natuurlijke balans herstelt en je zelfhelende vermogen
+          hervind.                               Een verdiepingsgesprek
         - focussing
         - Ontspanningsmassage
       plan: Lichaamswerk sessies in overleg
       price: "65"
 type: products
-image: img/1000003590.jpg
 description: Een retraite zou kunnen beginnen met een verdiepend gesprek, om
   goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig
   hebt. In de stilte kunnen inzichten komen. Verder zijn er Rebalancing
