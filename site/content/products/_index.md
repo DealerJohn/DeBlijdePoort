@@ -56,8 +56,7 @@ pricing:
     - description: " "
       items:
         - Verblijf in retraitehuisje
-        - Gas-licht-water inclusief
-        - internet
+        - inclusief Gas-licht-water en internet
       plan: Huur retraitehuisje per week (zaterdag tot en met vrijdag)
       price: "450"
     - description: Een verdiepingsgesprek, focussing
