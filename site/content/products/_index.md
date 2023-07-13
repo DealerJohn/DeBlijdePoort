@@ -1,7 +1,6 @@
 ---
 heading: "Retraite "
 title: Wat is mogelijk?
-image: img/1000003590.jpg
 intro:
   blurbs:
     - image: img/20230620_133907.jpg
@@ -17,7 +16,7 @@ intro:
 
     In overleg kan ik zorgen voor boodschappen zodat je helemaal nergens heen hoeft.
 
-    Als ervaren Haptonoom en Rebalancer kan ik je verschillende lichaamsgerichte sessies aanbieden (zie ook www.praktijkdepoort.nl).
+    Als ervaren Haptonoom en Rebalancer kan ik je verschillende lichaamsgerichte sessies aanbieden (zie ook http://praktijkdepoort.nl).
 
     In overleg is veel mogelijk. 
 
@@ -67,6 +66,7 @@ pricing:
       plan: Lichaamswerk sessies in overleg
       price: "65"
 type: products
+image: img/1000003590.jpg
 description: Een retraite zou kunnen beginnen met een verdiepend gesprek, om
   goed zicht te krijgen op waar jij nu bent in je leven en wat jij nu nodig
   hebt. In de stilte kunnen inzichten komen. Verder zijn er Rebalancing
