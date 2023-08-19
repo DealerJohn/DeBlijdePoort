@@ -17,8 +17,16 @@ values:
       Aan alles dat op ons terrein gebouwd is, is veel liefde, zorg en aandacht
       besteed. Wij vragen van jou als gast, hier met respect mee om te gaan.
     imageUrl: img/1000003568.jpg
-  - heading: " "
-    text: "\ \n"
+  - heading: " Terrein en retraitehuisje"
+    text: >
+      Het was al een lang gekoesterde wens van mij om op dit prachtige stukje
+      aarde dat ik mag beheren, een liefdevol retraite huisje te bouwen. Met
+      mijn ideeën, mijn praktische 'doe het zelf' kwaliteiten en de
+      synchroniciteit om elke keer weer de juiste gebruikte materialen te mogen
+      vinden, de voortdurende, een dag in de week, vrijwillige hulp van een
+      ervaren timmerman en elektricien hebben we gezamenlijk een prachtig
+      project gerealiseerd en een onderlinge hechte vriendschap ervaren! wat een
+      zegening. Ik voel me dankbaar.
     imageUrl: img/1000003572.jpg
   - heading: " "
     text: "\ \n"
