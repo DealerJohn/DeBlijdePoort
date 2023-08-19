@@ -60,19 +60,11 @@ pricing:
         - inclusief Gas-licht-water en internet
       plan: Huur retraitehuisje per week (zaterdag tot en met vrijdag)
       price: "450"
-    - description: " Wie is Pieter van der Poort"
+    - description: Praktijk de Poort
       items:
-        - Mijn talent zit in mijn handen. Dat komt tot uitdrukking in – de kunst
-          van het aanraken -. Mijn handen staan als instrument ten dienste van
-          jouw ontdekkingsreis naar jezelf. Aanraken is voor mij als een
-          woordeloze dialoog. In de aanraking luister ik naar het verhaal van
-          jouw lichaam. In die aanraking en dat luisteren gaan we samen op
-          ontdekkingsreis. Een avontuur waarin je je eigen lichaam weer gaat
-          verstaan
-        - je natuurlijke balans herstelt en je zelfhelende vermogen
-          hervind.                               Een verdiepingsgesprek
-        - focussing
-        - Ontspanningsmassage
+        - Een verdiepingsgesprek
+        - Haptonomie/ Rebalancing sessie
+        - ontspanningsmassage
       plan: Lichaamswerk sessies in overleg
       price: "65"
 type: products
