@@ -24,7 +24,7 @@ values:
       mensen de fijne energie, stilte en de rust van deze plek mogen gaan
       ervaren. 
 
-      Met mijn ideeën, mijn praktische 'doe het zelf' kwaliteiten en de synchroniciteit om elke keer weer de juiste gebruikte materialen te mogen vinden, de voortdurende, een dag in de week, vrijwillige hulp van een ervaren timmerman en elektricien,, hebben we gezamenlijk een prachtig project gerealiseerd en een onderlinge hechte vriendschap ervaren! Wat een zegening. Ik voel me dankbaar.
+      Met mijn ideeën, mijn praktische 'doe het zelf' kwaliteiten en de synchroniciteit om elke keer weer de juiste gebruikte materialen te mogen vinden, de voortdurende, een dag in de week, vrijwillige hulp van een ervaren timmerman en elektricien, hebben we gezamenlijk een prachtig project gerealiseerd en een onderlinge hechte vriendschap ervaren! Wat een zegening. Ik voel me dankbaar.
     imageUrl: img/1000003572.jpg
   - heading: " "
     text: "\ \n"
