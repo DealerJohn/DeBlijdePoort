@@ -2,11 +2,17 @@
 title: Onze uitgangspunten
 image: img/20230429_174519.jpg
 values:
-  - heading: Septictank
+  - heading: Terrein en retraitehuisje
     text: >
-      Het huisje is aangesloten op een septictank. Dit houd in dat voor de goede
-      werking alleen biologisch afbreekbare zepen en schoonmaakmiddelen gebruikt
-      mogen worden.
+      Het was al een lang gekoesterde wens van mij om op dit prachtige stukje
+      aarde, een liefdevol retraite huisje te bouwen. En dat daarin ook andere
+      mensen de fijne energie, stilte en rust van deze plek mogen gaan ervaren.
+      Met mijn ideeën, mijn praktische 'doe het zelf' kwaliteiten en de
+      synchroniciteit om elke keer weer de juiste gebruikte materialen te mogen
+      vinden, de voortdurende, een dag in de week, vrijwillige hulp van een
+      ervaren timmerman en een elektricien, hebben we gezamenlijk een prachtig
+      project gerealiseerd en een onderling hechte vriendschap mogen
+      ervaren!  Wat een zegening, ik voel me dankbaar!  
     imageUrl: img/20230620_133736.jpg
   - heading: Interieur
     text: |
