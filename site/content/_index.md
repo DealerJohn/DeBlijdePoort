@@ -18,8 +18,8 @@ products:
   - image: img/20230429_173926.jpg
     text: Het gebouw ernaast heeft een sauna met eigen douche en toilet.
   - image: img/1000003568.jpg
-    text: "Vanaf de veranda van het huisje kijk je naar de boomgaard en de vijver en
-      ervaar je de rust van het Overijsselse platteland. "
+    text: "Vanaf de veranda kijk je naar de boomgaard en de vijver en ervaar je de
+      rust van het Overijsselse platteland. "
 values:
   heading: " "
   text: "Retraite huisje De Blijde Poort biedt u een veilige, rustige en
