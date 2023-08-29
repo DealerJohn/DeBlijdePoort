@@ -25,7 +25,7 @@ values:
     imageUrl: img/1000003568.jpg
   - heading: " Septictank"
     text: >
-      Het huisje is aangesloten op een septic tank. Dat houd in dat voor de
+      Het huisje is aangesloten op een septic tank. Dat houdt in dat voor de
       goede werking alleen biologisch afbreekbare zepen, tandpasta, afwasmiddel
       en schoonmaakmiddelen gebruikt mogen worden.
     imageUrl: img/1000003572.jpg
