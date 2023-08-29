@@ -16,7 +16,8 @@ intro:
     een houten huis op het terrein.
 products:
   - image: img/20230429_173926.jpg
-    text: Het gebouw ernaast heeft een sauna met eigen douche en toilet.
+    text: Het gebouw ernaast heeft een keuken, voorzien van koelkast en een oven en
+      een hout gestookte sauna met eigen douche en toilet.
   - image: img/1000003568.jpg
     text: "Vanaf de veranda kijk je naar de boomgaard en de vijver en ervaar je de
       rust van het Overijsselse platteland. "
