@@ -22,6 +22,5 @@ products:
       rust van het Overijsselse platteland. "
 values:
   heading: " "
-  text: "Retraite huisje De Blijde Poort biedt u een veilige, rustige en
-    lommerrijke omgeving. "
+  text: "De Blijde Poort biedt u een veilige, rustige en lommerrijke omgeving. "
 ---
