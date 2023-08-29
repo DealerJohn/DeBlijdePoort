@@ -25,7 +25,7 @@ intro:
 main:
   heading: " "
   description: |
-    Interieur van het huisje
+    Interieur
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: img/20230620_133507.jpg
