@@ -56,9 +56,8 @@ pricing:
   plans:
     - description: "  "
       items:
-        - Verblijf in retraitehuisje
-        - inclusief Gas-licht-water en internet
-      plan: Huur retraitehuisje per week (zaterdag tot en met vrijdag)
+        - Verblijf is inclusief Gas-licht-water en internet
+      plan: Huur retraitehuisje per week (zaterdag 15 uur tot en met vrijdag 12 uur)
       price: "450"
     - description: Praktijk de Poort
       items:
